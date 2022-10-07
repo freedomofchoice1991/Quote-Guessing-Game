@@ -16,7 +16,7 @@ def start_game():
         print("\n\n\n.\n.\n.\n.\n.\n.\n", displayRandomQuote()
               [0], "\n.\n.\n.\n.\n.\n.")  # Random Quote
 
-        print(correct_author.lower())  # hint for programming
+        # print(correct_author.lower())  # hint for programming
 
         guess = input('\n\n\nGuess who said that quote:  ').lower()
 

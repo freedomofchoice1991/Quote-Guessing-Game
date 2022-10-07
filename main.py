@@ -11,7 +11,7 @@
 from scrape import scrap
 from startGame import start_game
 
-scrap()         ##We don't need to scrap the website every time / it slows down the program
+# scrap()         ##We don't need to scrap the website every time / it slows down the program
 
 def main():
     start_game()
